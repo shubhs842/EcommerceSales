@@ -1,5 +1,5 @@
 
-#E-commerce Dashboard - Power BI
+E-commerce Dashboard - Power BI
 
 #Overview
 
