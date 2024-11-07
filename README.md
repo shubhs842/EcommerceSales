@@ -1,11 +1,10 @@
+# E-commerce Dashboard - Power BI
 
-E-commerce Dashboard - Power BI
-
-#Overview
+# Overview
 
 This project involves creating a comprehensive dashboard using Power BI to analyze an e-commerce dataset. The goal is to generate actionable insights by visualizing monthly sales trends, understanding customer behaviors, and identifying retention rates.
 
-#Features
+# Features
 
 Monthly Sales Analysis: Visual breakdown of monthly sales trends to identify peak months, top-selling products, and low-performing items.
 
@@ -16,7 +15,7 @@ Order and Shipment Insights: Visualization of order types, shipment methods, and
 Retention Rates: Calculation and visualization of customer retention rates, offering insights into customer loyalty and business sustainability.
 
 
-#Key Insights
+# Key Insights
 
 What Sells Well: Identification of top-selling product categories and items driving the majority of revenue.
 
@@ -27,14 +26,14 @@ Shipment Preferences: Overview of preferred shipment methods and potential areas
 Retention Analysis: Calculation of retention rates to understand customer loyalty trends and areas for customer engagement improvements.
 
 
-#Tools & Technology
+# Tools & Technology
 
 Power BI: For data visualization and dashboard creation.
 
 Data Sources: The dataset provided by Dendrite.AI.
 
 
-#How to Use This Dashboard
+# How to Use This Dashboard
 
 1. Monthly Sales: View monthly sales charts to track revenue changes and seasonal trends.
 
@@ -52,6 +51,6 @@ Data Sources: The dataset provided by Dendrite.AI.
 
 
 
-#Additional Notes
+# Additional Notes
 
 This dashboard was designed to be user-friendly, providing quick insights for business stakeholders to make data-driven decisions. The analysis was completed within a 3-day window, ensuring timely completion for Dendrite.AI's evaluation.
